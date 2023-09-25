@@ -12,6 +12,7 @@ End
 
 // Exercise 2: Check if a Number is Even or Odd
 Start
+	WRITE "Add number"
 	READ input of a number
 	IF number mod = 0
 	PRINT ¨Number is Even¨
